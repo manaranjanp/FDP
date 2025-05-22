@@ -8,3 +8,5 @@ This git repository contains the dataset and the notebooks for the following boo
 
 [Github repository](https://github.com/manaranjanp/MLUsingPythonBook) for the book.
 
+Author Profile: [Manaranjan Pradhan](https://www.manaranjanp.com/)
+
